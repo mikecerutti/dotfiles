@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mike.cerutti@gmail.com
+	name = Mike Cerutti
